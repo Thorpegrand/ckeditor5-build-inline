@@ -51,9 +51,7 @@ InlineEditor.build = {
 				'link',
 				'bulletedList',
 				'numberedList',
-				'blockQuote',
-				'undo',
-				'redo'
+				'source'
 			]
 		},
 		image: {
